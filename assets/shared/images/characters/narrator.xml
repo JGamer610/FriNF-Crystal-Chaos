@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="narrator.png"><SubTexture name="narrator down0000" x="270" y="0" width="84" height="239" frameX="-9" frameY="-1" frameWidth="100" frameHeight="248" />
+<SubTexture name="narrator idle0000" x="77" y="246" width="79" height="236" frameX="-11" frameY="-6" frameWidth="98" frameHeight="253" />
+<SubTexture name="narrator idle0001" x="0" y="246" width="77" height="238" frameX="-9" frameY="-13" frameWidth="93" frameHeight="265" />
+<SubTexture name="narrator idle0002" x="354" y="0" width="77" height="239" frameX="-8" frameY="-11" frameWidth="95" frameHeight="262" />
+<SubTexture name="narrator left0000" x="156" y="246" width="100" height="236" frameX="-3" frameY="-6" frameWidth="114" frameHeight="248" />
+<SubTexture name="narrator right0000" x="431" y="0" width="116" height="239" frameX="-16" frameY="-6" frameWidth="148" frameHeight="251" />
+<SubTexture name="narrator up0000" x="0" y="0" width="133" height="246" frameX="-7" frameY="-5" frameWidth="161" frameHeight="258" />
+<SubTexture name="narrator up0001" x="133" y="0" width="137" height="246" frameX="-7" frameY="-5" frameWidth="166" frameHeight="265" />
+</TextureAtlas>

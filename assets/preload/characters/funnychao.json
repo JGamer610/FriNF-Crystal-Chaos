@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-69,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "funnychao left"
+		},
+		{
+			"offsets": [
+				100,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "funnychao down"
+		},
+		{
+			"offsets": [
+				80,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "funnychao idle"
+		},
+		{
+			"offsets": [
+				-7,
+				240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "funnychao up"
+		},
+		{
+			"offsets": [
+				-7,
+				237
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "funnychao right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/funnychao",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Chao",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		2,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

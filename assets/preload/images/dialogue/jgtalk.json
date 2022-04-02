@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		130,
+		-50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "jgtalk talk",
+			"idle_name": "jgtalk talk0000"
+		},
+		{
+			"loop_name": "jgtalk disappointed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jgtalk disappointed0000",
+			"anim": "disappoint",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jgtalk confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jgtalk confused0000",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "jgtalk angy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "jgtalk angy0000",
+			"anim": "angy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "jgtalk"
+}

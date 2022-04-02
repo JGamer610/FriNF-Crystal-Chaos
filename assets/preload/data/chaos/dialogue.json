@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what did you expect"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "like"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but I didn't even say anything"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "don't care + ratio"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "OK LISTEN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we do another song"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I still wanna see what you got"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "sadg",
+			"text": "but I don't have another song"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh wait yes I do"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "ROUND 2"
+		}
+	]
+}

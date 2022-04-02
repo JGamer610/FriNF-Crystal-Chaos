@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Chao.png"><SubTexture name="Chao ChaoDown0000" x="0" y="0" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoDown0001" x="796" y="0" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoDown0002" x="1592" y="0" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoIdle0000" x="0" y="862" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoIdle0001" x="796" y="862" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoIdle0002" x="1592" y="862" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoIdle0003" x="2388" y="0" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoIdle0004" x="2388" y="862" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoIdle0005" x="0" y="862" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoLeft0000" x="0" y="1724" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoLeft0001" x="796" y="1724" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoLeft0002" x="1592" y="1724" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoLeft0003" x="2388" y="1724" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoLeft0004" x="3184" y="0" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao Chao Right0000" x="3184" y="862" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao Chao Right0001" x="3184" y="1724" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao Chao Right0002" x="0" y="2586" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao Chao Right0003" x="0" y="2586" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoUp0000" x="796" y="2586" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoUp0001" x="1592" y="2586" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+<SubTexture name="Chao ChaoUp0002" x="2388" y="2586" width="796" height="862" frameX="0" frameY="0" frameWidth="796" frameHeight="862" />
+</TextureAtlas>

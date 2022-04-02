@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "JG idle"
+		},
+		{
+			"offsets": [
+				90,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "JG left"
+		},
+		{
+			"offsets": [
+				-20,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "JG right"
+		},
+		{
+			"offsets": [
+				20,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "JG down"
+		},
+		{
+			"offsets": [
+				4,
+				11
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singUP",
+			"loop": false,
+			"name": "JG up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JG",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jg",
+	"flip_x": false,
+	"healthbar_colors": [
+		190,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chao ChaoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				141
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "Chao ChaoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				97
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "Chao ChaoLeft",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				80,
+				90
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "Chao ChaoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "Chao Chao Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chao",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Chao",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-360,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

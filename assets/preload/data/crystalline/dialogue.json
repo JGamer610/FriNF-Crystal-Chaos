@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Bap bap beeap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "disappoint",
+			"text": "That was too easy? you want a challenge?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "BEEP BAP!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "disappoint",
+			"text": "woah alright calm down"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You want a challenge?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've got a challenge for you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "watch out for the crystals though"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "BAAAAP BEEP BOOP!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "disappoint",
+			"text": "."
+		},
+		{
+			"speed": 0.075,
+			"portrait": "jgtalk",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "IT'S ON!"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+function onSongStart()
+	noteTweenAlpha("CHNoteFade1", 0, 0, 0.3, circOut)
+end
+
+function onBeatHit()
+	if curBeat == 1 then
+	noteTweenAlpha("CHNoteFade2", 1, 0, 0.3, circOut)
+	end
+	if curBeat == 2 then
+	noteTweenAlpha("CHNoteFade3", 2, 0, 0.3, circOut)
+	end
+	if curBeat == 3 then
+	noteTweenAlpha("CHNoteFade3", 3, 0, 0.3, circOut)
+	end
+	if curBeat == 16 then
+	noteTweenX("BfNoteStarting1", 4, 400, 0.3, circOut)
+	end
+	if curBeat == 17 then
+	noteTweenX("BfNoteStarting2", 5, 525, 0.3, circOut)
+	end
+	if curBeat == 18 then
+	noteTweenX("BfNoteStarting3", 6, 675, 0.3, circOut)
+	end
+	if curBeat == 19 then
+	noteTweenX("BfNoteStarting4", 7, 750, 0.3, circOut)
+	end
+end

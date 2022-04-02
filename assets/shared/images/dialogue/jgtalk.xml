@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jgtalk.png"><SubTexture name="jgtalk angy0000" x="0" y="0" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk angy0001" x="574" y="0" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk angy0002" x="1148" y="0" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk angy0003" x="0" y="724" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk confused0000" x="574" y="724" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk confused0001" x="1148" y="724" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk confused0002" x="1722" y="0" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk confused0003" x="1722" y="724" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk disappointed0000" x="0" y="1448" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk disappointed0001" x="574" y="1448" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk disappointed0002" x="1148" y="1448" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk disappointed0003" x="1722" y="1448" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk talk0000" x="2296" y="0" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk talk0001" x="2296" y="724" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk talk0002" x="2296" y="1448" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+<SubTexture name="jgtalk talk0003" x="2870" y="0" width="574" height="724" frameX="0" frameY="0" frameWidth="574" frameHeight="724" />
+</TextureAtlas>

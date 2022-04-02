@@ -1,0 +1,49 @@
+{
+	"storyName": "Holy fucking shit a cat",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stag",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menujg",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"claws",
+			"jg",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"shimmer",
+			"jg",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"crystalline",
+			"jg",
+			[
+				186,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "JgWeek"
+}

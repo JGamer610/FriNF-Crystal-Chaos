@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bebop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "helloiouuuu"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bebo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "shut the fuck up holy shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "sadg",
+			"text": "awww :("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what do you want"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i dknow"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OHWAITYOURETHATRAPPERGUY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "noway"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh my god you talk so much what do you want"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "BOYFRIEND FROM FRIDAY NIGHT FUNKING"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "I CHALLENGE YOU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "TO A RAP BATTLE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do you realize-"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "chaotalk",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "SHUT UP AND SING WITH ME"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It would be fun I promise :3"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

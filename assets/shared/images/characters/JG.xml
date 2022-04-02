@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JG.png"><SubTexture name="JG down0000" x="0" y="0" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG down0001" x="1200" y="0" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG down0002" x="0" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG down0003" x="0" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG idle0000" x="1200" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG idle0001" x="2400" y="0" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG idle0002" x="2400" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG idle0003" x="0" y="2400" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG idle0004" x="1200" y="2400" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG idle0005" x="1200" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG left0000" x="2400" y="2400" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG left0001" x="3600" y="0" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG left0002" x="3600" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG left0003" x="3600" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG right0000" x="3600" y="2400" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG right0001" x="0" y="3600" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG right0002" x="1200" y="3600" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG right0003" x="2400" y="3600" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG up0000" x="3600" y="3600" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG up0001" x="4800" y="0" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG up0002" x="4800" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+<SubTexture name="JG up0003" x="4800" y="1200" width="1200" height="1200" frameX="0" frameY="0" frameWidth="1200" frameHeight="1200" />
+</TextureAtlas>

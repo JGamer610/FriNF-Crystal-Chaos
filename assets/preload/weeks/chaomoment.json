@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"chip",
+			"Chao",
+			[
+				126,
+				80,
+				255
+			]
+		],
+		[
+			"chaos",
+			"Chao",
+			[
+				126,
+				80,
+				255
+			]
+		],
+		[
+			"fullcrystal",
+			"Chao",
+			[
+				126,
+				80,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"chaomenu",
+		"bf",
+		"gf"
+	],
+	"storyName": "banan  a",
+	"weekName": "weekchao",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

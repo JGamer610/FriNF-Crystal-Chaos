@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "empty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A portal opens inside a cave. Boyfriend and Girlfriend fall out... you're probably familiar with the pair anyways"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "empty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "They encounter a strange purple cat walking into the cave."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "disappoint",
+			"text": "eh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "disappoint",
+			"text": "How'd you get 'ere"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Rab battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I mean... I don't see why not"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what's your name, anyways?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop be"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Boyfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "odd name, but alright"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, boyfriend..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "Let's rap!"
+		}
+	]
+}

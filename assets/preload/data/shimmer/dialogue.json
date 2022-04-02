@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Boop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was kinda fun"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bap boop bep!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boobeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Another?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I mean I'm down"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jgtalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "here we go then"
+		}
+	]
+}

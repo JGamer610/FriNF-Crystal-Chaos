@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		50,
+		90
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-12
+			],
+			"idle_offsets": [
+				0,
+				-12
+			],
+			"loop_name": "Chao Talk",
+			"idle_name": "BF0"
+		},
+		{
+			"loop_name": "Chao angy",
+			"idle_offsets": [
+				0,
+				-11
+			],
+			"idle_name": "Chao angy0002",
+			"anim": "angy",
+			"loop_offsets": [
+				0,
+				-12
+			]
+		},
+		{
+			"loop_name": "Chao Sadg",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Chao Sadg0003",
+			"anim": "sadg",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ChaoTalk"
+}

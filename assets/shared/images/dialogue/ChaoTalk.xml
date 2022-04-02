@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ChaoTalk.png"><SubTexture name="Chao Fade in0000" x="1500" y="1000" width="226" height="448" frameX="-123" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Fade in0001" x="1726" y="1000" width="226" height="448" frameX="-123" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Fade in0002" x="0" y="1500" width="226" height="448" frameX="-123" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Fade in0003" x="0" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao angy0000" x="500" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao angy0001" x="0" y="500" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao angy0002" x="500" y="500" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Talk0000" x="1000" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Talk0001" x="1000" y="500" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Talk0002" x="0" y="1000" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Talk0003" x="1000" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Sadg0000" x="500" y="1000" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Sadg0001" x="1000" y="1000" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Sadg0002" x="1500" y="0" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+<SubTexture name="Chao Sadg0003" x="1500" y="500" width="500" height="500" frameX="0" frameY="0" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

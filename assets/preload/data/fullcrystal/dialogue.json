@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "Chaotalk",
+			"boxState": "normal",
+			"expression": "sadg",
+			"text": "awwww man I lost again :((((("
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey it's alright man"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "'s all just for fun and games :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah you're righttt!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey how about one more?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "angry",
+			"expression": "angy",
+			"text": "I HAVE A SONG!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I'm going to hit play now :)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait I never asked but"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why is there a woman bopping her head on the speaker"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm his girlfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "she's my girlfried"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": ":>"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "awesome"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "chaotalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok lets go now"
+		}
+	]
+}
